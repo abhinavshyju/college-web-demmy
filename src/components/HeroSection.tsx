@@ -12,7 +12,7 @@ const HeroSection: React.FC<HeroSectionProps> = ({ onNavigate }) => {
       <div
         className="absolute inset-0 bg-cover bg-center h-full"
         style={{
-          backgroundImage: 'url("/college.jpg")',
+          backgroundImage: 'url("/images/college.jpg")',
           zIndex: 0,
         }}
       >
